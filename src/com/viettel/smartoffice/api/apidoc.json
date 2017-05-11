@@ -1,0 +1,8 @@
+{
+  "name": "Rest API for smartoffice",
+  "version": "0.1.0",
+  "description": "Description Rest API web service for Smartoffice project",
+  "footer": {
+    "title": "Smart office Footer"
+  }
+}
